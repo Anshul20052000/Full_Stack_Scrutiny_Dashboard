@@ -10,7 +10,7 @@ from sklearn.metrics import confusion_matrix , classification_report
 #st.set_page_config(page_title='STARBUCKS ANALYSIS')
 #st.subheader('Was the tutorial helpful?')
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
 st.set_page_config(page_title="Starbucks Analysis", page_icon=":bar_chart:", layout="wide")
